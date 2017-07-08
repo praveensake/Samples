@@ -1,0 +1,4 @@
+en google 30 30000
+en yahoo 60 60000
+us google 70 70000
+en google 40 40000
